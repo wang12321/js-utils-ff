@@ -23,7 +23,7 @@
 
 1.1 初看
  
-js工具库（常用函数）的文档地址为：https://have-not-bug.github.io/js-utils
+js工具库（常用函数）的文档地址为：https://wang12321.github.io/js-utils-ff/
 (文档采用的是jsdoc+docdash主题。)
 看是否有适合自己的方法
 ![文档界面](https://publicimage-1251317493.file.myqcloud.com/reportBug/202107191818355815.png)
@@ -171,7 +171,7 @@ console.log('jsUtilsLc.removeArrRepeat',jsUtilsLc.removeArrRepeat([1,2,3,3,4,9,8
 
 ### （四） 补充说明
 
-1、代码合并至master分支后，会自动运行sonar质量检测、jest单元测试和覆盖率测试及自动打包和构建使用文档至 https://have-not-bug.github.io/js-utils/
+1、代码合并至master分支后，会自动运行sonar质量检测、jest单元测试和覆盖率测试及自动打包和构建使用文档至 https://wang12321.github.io/js-utils-ff/
 
 # 五、待完成
 ~~1、支持方便地在浏览器控制台实时测试/调试各个函数的运行效果~~
