@@ -71,7 +71,7 @@ gulp.task('watch', ['src'] ,function() {
 
     watcher.on('change', function (event) {
         // 文件变化了==== { type: 'changed',
-        //   path: 'D:\\1测试demo\\js-utils\\src\\__tests__\\deepClone.spec.js' }
+        //   path: 'D:\\1测试demo\\js-utils-ff\\src\\__tests__\\deepClone.spec.js' }
         console.log('文件变化了====',event)
         var changedFilePath=event.path;
         var changedTestFileNameWithSprit=changedFilePath.split('__tests__')[1];
@@ -79,7 +79,7 @@ gulp.task('watch', ['src'] ,function() {
         var changedTestFileName=changedTestFileNameWithSprit ? changedTestFileNameWithSprit.replace(/\//,'').replace(/\\/,'') :'';
         var changedUtilsFileName=changedUtilsFileNameWithSprit ? changedUtilsFileNameWithSprit.replace(/\//,'').replace(/\\/,'') :'';
         console.log('File: ' + changedFilePath + ' was ' + event.type + ', running tasks...');
-        // File: D:\1测试demo\js-utils\src\__tests__\deepClone.spec.js was changed, running tasks...
+        // File: D:\1测试demo\js-utils-ff\src\__tests__\deepClone.spec.js was changed, running tasks...
         console.log('changedUtilsFileName',changedUtilsFileName)
 
         // if(reloadJestOrUtilsType ==='reloadJest' && event.type ==='changed' && changedTestFileName){

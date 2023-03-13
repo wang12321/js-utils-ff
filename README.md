@@ -3,10 +3,10 @@
 # 一、简介
 ![https://www.npmjs.com/package/js-utils-ff](https://img.shields.io/npm/v/js-utils-ff)
 ![https://www.npmjs.com/package/js-utils-ff](https://img.shields.io/npm/dt/js-utils-ff)
-![https://github.com/wang12321/js-utils](https://img.shields.io/github/languages/code-size/wang12321/js-utils)
-![https://github.com/wang12321/js-utils](https://img.shields.io/github/issues-raw/wang12321/js-utils)
-![https://github.com/wang12321/js-utils](https://img.shields.io/github/license/wang12321/js-utils)
-![https://github.com/wang12321/js-utils](https://img.shields.io/badge/maintained%20with-rollup-cc00ff.svg)
+![https://github.com/wang12321/js-utils-ff](https://img.shields.io/github/languages/code-size/wang12321/js-utils-ff)
+![https://github.com/wang12321/js-utils-ff](https://img.shields.io/github/issues-raw/wang12321/js-utils-ff)
+![https://github.com/wang12321/js-utils-ff](https://img.shields.io/github/license/wang12321/js-utils-ff)
+![https://github.com/wang12321/js-utils-ff](https://img.shields.io/badge/maintained%20with-rollup-cc00ff.svg)
 
 
 
@@ -187,11 +187,11 @@ console.log('jsUtilsLc.removeArrRepeat',jsUtilsLc.removeArrRepeat([1,2,3,3,4,9,8
 6、添加更多的单元测试
 
 # 六、参考资料
-1、[imondo/js-utils](https://github.com/imondo/js-utils) 
+1、[imondo/js-utils-ff](https://github.com/imondo/js-utils-ff) 
  
 2、[nhn/tui.jsdoc-template](https://github.com/nhn/tui.jsdoc-template) 
  
-3、[null_639_5368/js-utils](https://gitee.com/null_639_5368/js-utils)
+3、[null_639_5368/js-utils-ff](https://gitee.com/null_639_5368/js-utils-ff)
 
 
 
